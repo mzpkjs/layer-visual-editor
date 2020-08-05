@@ -3,7 +3,6 @@ idea/
 
 ## Build related
 tsconfig.tsbuildinfo
-lib
 .cache
 dist
 .tsbuildinfo
