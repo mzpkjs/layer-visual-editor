@@ -60,3 +60,4 @@ modules.xml
 
 
 !/travicdebug.js
+!/docs/**/*.js
